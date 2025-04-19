@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sleep-Soundscape" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/battery_warranty_app_flutter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/battery_warranty_dashboard_flutter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scout_flutter_app" vcs="Git" />
