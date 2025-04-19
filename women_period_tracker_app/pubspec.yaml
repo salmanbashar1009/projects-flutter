@@ -1,0 +1,118 @@
+name: ovella_period_tracker_app
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localization: ^0.3.1
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  flutter_screenutil: ^5.9.3
+  blur: ^4.0.0
+  http: ^1.3.0
+  shared_preferences: ^2.5.2
+  hive_flutter: ^1.1.0
+  intl: ^0.19.0
+  smooth_page_indicator: ^1.2.1
+  carousel_slider: ^5.0.0
+  dots_indicator: ^4.0.1
+  table_calendar: ^3.1.3
+  curved_navigation_bar: ^1.0.6
+  animated_text_kit: ^4.2.3
+  flutter_keyboard_visibility: ^6.0.0
+  speech_to_text: ^7.0.0
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/brand_logo/brand_logo.png"
+  min_sdk_android: 23 # android min sdk min:16, default 21
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/brand_logo/brand_logo.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  generate: true
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/on_boarding_screen/
+    - assets/images/
+    - assets/images/splash_screen/
+    - assets/images/community/
+    - assets/images/pregnancy/
+    - assets/images/icons/
+    - assets/images/person/
+    - assets/images/icons/
+    - assets/icons/
+    - assets/emoji/
+    - assets/images/ai_chat/
+    - assets/images/community/
+    - assets/images/home_screen/
+    - assets/images/auth_screens/
+    - assets/images/setting_screen/
+    - assets/images/invite_partner_screen/
+    - assets/images/pairing_screen/
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: CarosSoft
+      fonts:
+        - asset: assets/fonts/caros-soft/CarosSoft.otf
+        - asset: assets/fonts/caros-soft/CarosSoftBlack.otf
+        - asset: assets/fonts/caros-soft/CarosSoftLight.otf
+        - asset: assets/fonts/caros-soft/CarosSoftExtraLight.otf
+        - asset: assets/fonts/caros-soft/CarosSoftBold.otf
+        - asset: assets/fonts/caros-soft/CarosSoftExtraBold.otf
+        - asset: assets/fonts/caros-soft/CarosSoftHeavy.otf
+        - asset: assets/fonts/caros-soft/CarosSoftMedium.otf
+        - asset: assets/fonts/caros-soft/CarosSoftThin.otf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

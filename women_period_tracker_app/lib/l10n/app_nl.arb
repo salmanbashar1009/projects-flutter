@@ -1,0 +1,412 @@
+{
+  "@@locale": "nl",
+  "hellojaneDoe": "hallo, Jane Doe",
+  "@hellojaneDoe": {
+    "description": "Hello greeting"
+  },
+  "goodmorning": "goedemorgen",
+  "@goodmorning": {
+    "description": "Morning greeting"
+  },
+  "fibroidswomen": "fibroïden komen meestal voor bij vrouwen.",
+  "@fibroidswomen": {
+    "description": "Fibroids information"
+  },
+  "fibroiddiscription": "fibroïden kunnen de menstruatiecyclus verstoren, hevige bloedingen veroorzaken en de vruchtbaarheid beïnvloeden.",
+  "@fibroiddiscription": {
+    "description": "Fibroids description"
+  },
+  "logperiod": "log je menstruatie",
+  "@logperiod": {
+    "description": "Logging period option"
+  },
+  "logyoursymptoms": "log je symptomen",
+  "@logyoursymptoms": {
+    "description": "Logging symptoms option"
+  },
+  "logyourmood": "log je stemming",
+  "@logyourmood": {
+    "description": "Logging mood option"
+  },
+  "eventsAndWorkshops": "Evenementen en Workshops",
+  "tailoredwellnessjourney": "op maat gemaakte welzijnsreis",
+  "@tailoredwellnessjourney": {
+    "description": "Personalized health journey"
+  },
+  "seeall": "bekijk alles",
+  "@seeall": {
+    "description": "View all items"
+  },
+  "personalizedwellnesstips": "gepersonaliseerde welzijnstips",
+  "@personalizedwellnesstips": {
+    "description": "Wellness tips section"
+  },
+  "home": "thuis",
+  "@home": {
+    "description": "Home page"
+  },
+  "tracking": "volgen",
+  "@tracking": {
+    "description": "Tracking section"
+  },
+  "community": "gemeenschap",
+  "@community": {
+    "description": "Community section"
+  },
+  "settings": "instellingen",
+  "@settings": {
+    "description": "Settings page"
+  },
+  "ai": "kunstmatige intelligentie",
+  "@ai": {
+    "description": "AI assistant"
+  },
+  "symptoms": "symptomen",
+  "@symptoms": {
+    "description": "Symptoms section"
+  },
+  "everythingisfine": "alles is in orde",
+  "@everythingisfine": {
+    "description": "Status message"
+  },
+  "cramps": "krampen",
+  "@cramps": {
+    "description": "Symptom"
+  },
+  "acne": "acne",
+  "@acne": {
+    "description": "Skin condition"
+  },
+  "tenderbreasts": "gevoelige borsten",
+  "@tenderbreasts": {
+    "description": "Symptom"
+  },
+  "milkynippledischarge": "melkachtige afscheiding uit de tepel",
+  "@milkynippledischarge": {
+    "description": "Symptom"
+  },
+  "abdominalpain": "buikpijn",
+  "@abdominalpain": {
+    "description": "Symptom"
+  },
+  "fatigue": "vermoeidheid",
+  "@fatigue": {
+    "description": "Symptom"
+  },
+  "sleepiness": "slaperigheid",
+  "@sleepiness": {
+    "description": "Symptom"
+  },
+  "backache": "rugpijn",
+  "@backache": {
+    "description": "Symptom"
+  },
+  "frequenturination": "vaak plassen",
+  "@frequenturination": {
+    "description": "Symptom"
+  },
+  "cravings": "trek",
+  "@cravings": {
+    "description": "Symptom"
+  },
+  "insomnia": "slapeloosheid",
+  "@insomnia": {
+    "description": "Symptom"
+  },
+  "headache": "hoofdpijn",
+  "@headache": {
+    "description": "Symptom"
+  },
+  "legcramps": "beenkrampen",
+  "@legcramps": {
+    "description": "Symptom"
+  },
+  "bleedinggums": "bloedend tandvlees",
+  "@bleedinggums": {
+    "description": "Symptom"
+  },
+  "save": "opslaan",
+  "@save": {
+    "description": "Save button"
+  },
+  "calm": "kalm",
+  "@calm": {
+    "description": "Mood option"
+  },
+  "happy": "blij",
+  "@happy": {
+    "description": "Mood option"
+  },
+  "energetic": "energiek",
+  "@energetic": {
+    "description": "Mood option"
+  },
+  "moodswings": "stemmingswisselingen",
+  "@moodswings": {
+    "description": "Mood option"
+  },
+  "frisky": "speels",
+  "@frisky": {
+    "description": "Mood option"
+  },
+  "irritated": "geïrriteerd",
+  "@irritated": {
+    "description": "Mood option"
+  },
+  "sad": "verdrietig",
+  "@sad": {
+    "description": "Mood option"
+  },
+  "anxious": "angstig",
+  "@anxious": {
+    "description": "Mood option"
+  },
+  "depressed": "depressief",
+  "@depressed": {
+    "description": "Mood option"
+  },
+  "veryselfcritical": "zeer zelfkritisch",
+  "@veryselfcritical": {
+    "description": "Mood option"
+  },
+  "apathetic": "apathisch",
+  "@apathetic": {
+    "description": "Mood option"
+  },
+  "confused": "verward",
+  "@confused": {
+    "description": "Mood option"
+  },
+  "lowenergy": "lage energie",
+  "@lowenergy": {
+    "description": "Mood option"
+  },
+  "feelingguilty": "schuldig voelen",
+  "@feelingguilty": {
+    "description": "Mood option"
+  },
+  "obsessivethoughts": "obsessieve gedachten",
+  "@obsessivethoughts": {
+    "description": "Mood option"
+  },
+  "period": "menstruatie",
+  "@period": {
+    "description": "Menstrual cycle"
+  },
+  "fertile": "vruchtbaar",
+  "@fertile": {
+    "description": "Fertility phase"
+  },
+  "ovulation": "ovulatie",
+  "@ovulation": {
+    "description": "Ovulation phase"
+  },
+  "nextperiod": "volgende menstruatie",
+  "@nextperiod": {
+    "description": "Upcoming menstrual cycle"
+  },
+  "menstrualfertility": "menstruatie en vruchtbaarheid",
+  "@menstrualfertility": {
+    "description": "Health section"
+  },
+  "pregnancy": "zwangerschap",
+  "@pregnancy": {
+    "description": "Pregnancy section"
+  },
+  "note": "notitie",
+  "@note": {
+    "description": "Notes section"
+  },
+  "newnoteforexample": "nieuwe notitie als voorbeeld",
+  "@newnoteforexample": {
+    "description": "Example note"
+  },
+  "week23ofyourpregnancy": "week 23 van je zwangerschap",
+  "@week23ofyourpregnancy": {
+    "description": "Pregnancy progress"
+  },
+  "details": "details",
+  "@details": {
+    "description": "More information"
+  },
+  "mydailyinsights": "mijn dagelijkse inzichten",
+  "@mydailyinsights": {
+    "description": "Daily health insights"
+  },
+  "checkupvaccination": "controle en vaccinatie",
+  "@checkupvaccination": {
+    "description": "Medical checkups"
+  },
+  "nextcheckup": "volgende controle",
+  "@nextcheckup": {
+    "description": "Upcoming medical checkup"
+  },
+  "upComingEvent": "Aankomende evenementen",
+  "@upComingEvent": {
+      "description": "Volgend evenement"
+  },
+  "heyjaneDoe": "hallo Jane Doe, welkom bij de",
+  "@heyjaneDoe": {
+    "description": "Welcome message for community"
+  },
+  "joindiscussion": "doe mee aan discussies, stel vragen en maak contact met experts!",
+  "@joindiscussion": {
+    "description": "Encouragement to join discussions"
+  },
+  "forum": "forum",
+  "@forum": {
+    "description": "Forum section"
+  },
+  "groups": "groepen",
+  "@groups": {
+    "description": "Groups section"
+  },
+  "events": "evenementen",
+  "@events": {
+    "description": "Events section"
+  },
+  "findtopic": "zoek onderwerpen, groepen en discussies",
+  "@findtopic": {
+    "description": "Search feature for topics"
+  },
+  "menstrualhealth": "menstruele gezondheid",
+  "@menstrualhealth": {
+    "description": "Menstrual health section"
+  },
+  "fertility": "vruchtbaarheid",
+  "@fertility": {
+    "description": "Fertility section"
+  },
+  "sexualhealth": "seksuele gezondheid",
+  "@sexualhealth": {
+    "description": "Sexual health section"
+  },
+  "populargroups": "populaire groepen",
+  "@populargroups": {
+    "description": "Popular community groups"
+  },
+  "findgroups": "zoek groepen",
+  "@findgroups": {
+    "description": "Search feature for groups"
+  },
+  "eventsworkshops": "evenementen en workshops",
+  "@eventsworkshops": {
+    "description": "Events and workshops section"
+  },
+  "eventsdetails": "evenementdetails",
+  "@eventsdetails": {
+    "description": "Details of specific events"
+  },
+  "pregnancynutritionwebinar": "webinar over zwangerschapsvoeding",
+  "@pregnancynutritionwebinar": {
+    "description": "Webinar about pregnancy nutrition"
+  },
+  "whatlearn": "wat je zult leren",
+  "@whatlearn": {
+    "description": "Section describing learning outcomes"
+  },
+  "speakers": "sprekers",
+  "@speakers": {
+    "description": "Speakers for an event"
+  },
+  "registernow": "registreer nu",
+  "@registernow": {
+    "description": "Registration button"
+  },
+  "editprofile": "bewerk profiel",
+  "@editprofile": {
+    "description": "Profile editing option"
+  },
+  "inviteyourpartnertoovella": "nodig je partner uit voor Ovella",
+  "@inviteyourpartnertoovella": {
+    "description": "Option to invite a partner"
+  },
+  "clickheretoaddyourpartner": "klik hier om je partner toe te voegen",
+  "@clickheretoaddyourpartner": {
+    "description": "Link to add partner"
+  },
+  "personalinformation": "persoonlijke informatie",
+  "@personalinformation": {
+    "description": "User's personal information section"
+  },
+  "age": "leeftijd",
+  "@age": {
+    "description": "User's age"
+  },
+  "gender": "geslacht",
+  "@gender": {
+    "description": "User's gender"
+  },
+  "menstrualhealthdetails": "details menstruele gezondheid",
+  "@menstrualhealthdetails": {
+    "description": "Menstrual and health details"
+  },
+  "cyclelength": "lengte cyclus",
+  "@cyclelength": {
+    "description": "Length of menstrual cycle"
+  },
+  "lastperiod": "laatste menstruatie",
+  "@lastperiod": {
+    "description": "Date of last period"
+  },
+  "pregnancystatus": "zwangerschapsstatus",
+  "@pregnancystatus": {
+    "description": "Current pregnancy status"
+  },
+  "healthconditions": "gezondheidsproblemen",
+  "@healthconditions": {
+    "description": "User's health conditions"
+  },
+  "preferencesnotifications": "voorkeuren en meldingen",
+  "@preferencesnotifications": {
+    "description": "User preferences and notifications"
+  },
+  "periodalerts": "menstruatie waarschuwingen",
+  "@periodalerts": {
+    "description": "Menstrual cycle alerts"
+  },
+  "pregnancytips": "zwangerschapstips",
+  "@pregnancytips": {
+    "description": "Tips for pregnancy"
+  },
+  "mentalhealth": "mentale gezondheid",
+  "@mentalhealth": {
+    "description": "Mental health section"
+  },
+  "language": "taal",
+  "@language": {
+    "description": "Language selection"
+  },
+  "privacydata": "privacy en gegevens",
+  "@privacydata": {
+    "description": "Privacy and data management"
+  },
+  "viewdatainsights": "bekijk gegevensinzichten",
+  "@viewdatainsights": {
+    "description": "View insights on data"
+  },
+  "exportdata": "exporteer gegevens",
+  "@exportdata": {
+    "description": "Export user data"
+  },
+  "deleteaccount": "verwijder account",
+  "@deleteaccount": {
+    "description": "Delete user account"
+  },
+  "supportcommunity": "ondersteuning en gemeenschap",
+  "@supportcommunity": {
+    "description": "Support and community section"
+  },
+  "contactsupport": "neem contact op met ondersteuning",
+  "@contactsupport": {
+    "description": "Support contact information"
+  },
+  "faqguides": "veelgestelde vragen en gidsen",
+  "@faqguides": {
+    "description": "Frequently asked questions and guides"
+  },
+  "joinacommunity": "sluit je aan bij een gemeenschap",
+  "@joinacommunity": {
+    "description": "Option to join a community"
+  }
+}

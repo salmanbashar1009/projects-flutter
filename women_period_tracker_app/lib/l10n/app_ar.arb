@@ -1,0 +1,413 @@
+{
+  "@@locale": "ar",
+  "hellojaneDoe": "مرحبًا، جين دو",
+  "@hellojaneDoe": {
+    "description": "Hello greeting"
+  },
+  "goodmorning": "صباح الخير",
+  "@goodmorning": {
+    "description": "Morning greeting"
+  },
+  "fibroidswomen": "الأورام الليفية تؤثر بشكل رئيسي على النساء.",
+  "@fibroidswomen": {
+    "description": "Fibroids information"
+  },
+  "fibroiddiscription": "الأورام الليفية يمكن أن تعطل الدورات، وتسبب نزيفًا شديدًا، وتؤثر على الخصوبة.",
+  "@fibroiddiscription": {
+    "description": "Fibroids description"
+  },
+  "logperiod": "تسجيل الدورة",
+  "@logperiod": {
+    "description": "Logging period option"
+  },
+  "logyoursymptoms": "سجّل أعراضك",
+  "@logyoursymptoms": {
+    "description": "Logging symptoms option"
+  },
+  "logyourmood": "سجّل مزاجك",
+  "@logyourmood": {
+    "description": "Logging mood option"
+  },
+  "tailoredwellnessjourney": "رحلة صحية مخصصة",
+  "@tailoredwellnessjourney": {
+    "description": "Personalized health journey"
+  },
+  "seeall": "عرض الكل",
+  "@seeall": {
+    "description": "View all items"
+  },
+  "personalizedwellnesstips": "نصائح صحية مخصصة",
+  "@personalizedwellnesstips": {
+    "description": "Wellness tips section"
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "description": "Home page"
+  },
+  "tracking": "التتبع",
+  "@tracking": {
+    "description": "Tracking section"
+  },
+  "community": "المجتمع",
+  "@community": {
+    "description": "Community section"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "Settings page"
+  },
+  "ai": "الذكاء الاصطناعي",
+  "@ai": {
+    "description": "AI assistant"
+  },
+  "symptoms": "الأعراض",
+  "@symptoms": {
+    "description": "Symptoms section"
+  },
+  "everythingisfine": "كل شيء على ما يرام",
+  "@everythingisfine": {
+    "description": "Status message"
+  },
+  "cramps": "تشنجات",
+  "@cramps": {
+    "description": "Symptom"
+  },
+  "acne": "حب الشباب",
+  "@acne": {
+    "description": "Skin condition"
+  },
+  "tenderbreasts": "ثدي حساس",
+  "@tenderbreasts": {
+    "description": "Symptom"
+  },
+  "milkynippledischarge": "إفرازات حليبية من الحلمة",
+  "@milkynippledischarge": {
+    "description": "Symptom"
+  },
+  "abdominalpain": "ألم البطن",
+  "@abdominalpain": {
+    "description": "Symptom"
+  },
+  "fatigue": "الإرهاق",
+  "@fatigue": {
+    "description": "Symptom"
+  },
+  "sleepiness": "النعاس",
+  "@sleepiness": {
+    "description": "Symptom"
+  },
+  "backache": "ألم الظهر",
+  "@backache": {
+    "description": "Symptom"
+  },
+  "frequenturination": "التبول المتكرر",
+  "@frequenturination": {
+    "description": "Symptom"
+  },
+  "cravings": "الرغبة الشديدة",
+  "@cravings": {
+    "description": "Symptom"
+  },
+  "insomnia": "الأرق",
+  "@insomnia": {
+    "description": "Symptom"
+  },
+  "headache": "الصداع",
+  "@headache": {
+    "description": "Symptom"
+  },
+  "legcramps": "تشنجات الساق",
+  "@legcramps": {
+    "description": "Symptom"
+  },
+  "bleedinggums": "نزيف اللثة",
+  "@bleedinggums": {
+    "description": "Symptom"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "Save button"
+  },
+  "calm": "هادئ",
+  "@calm": {
+    "description": "Mood option"
+  },
+  "happy": "سعيد",
+  "@happy": {
+    "description": "Mood option"
+  },
+  "energetic": "نشيط",
+  "@energetic": {
+    "description": "Mood option"
+  },
+  "moodswings": "تقلبات مزاجية",
+  "@moodswings": {
+    "description": "Mood option"
+  },
+  "frisky": "مرح",
+  "@frisky": {
+    "description": "Mood option"
+  },
+  "irritated": "متضايق",
+  "@irritated": {
+    "description": "Mood option"
+  },
+  "sad": "حزين",
+  "@sad": {
+    "description": "Mood option"
+  },
+  "anxious": "قلق",
+  "@anxious": {
+    "description": "Mood option"
+  },
+  "depressed": "مكتئب",
+  "@depressed": {
+    "description": "Mood option"
+  },
+  "veryselfcritical": "ناقد لنفسه بشدة",
+  "@veryselfcritical": {
+    "description": "Mood option"
+  },
+  "apathetic": "لامبالي",
+  "@apathetic": {
+    "description": "Mood option"
+  },
+  "confused": "مشوش",
+  "@confused": {
+    "description": "Mood option"
+  },
+  "lowenergy": "طاقة منخفضة",
+  "@lowenergy": {
+    "description": "Mood option"
+  },
+  "feelingguilty": "شعور بالذنب",
+  "@feelingguilty": {
+    "description": "Mood option"
+  },
+  "obsessivethoughts": "أفكار وسواسية",
+  "@obsessivethoughts": {
+    "description": "Mood option"
+  },
+  "period": "الدورة الشهرية",
+  "@period": {
+    "description": "Menstrual cycle"
+  },
+  "fertile": "خصب",
+  "@fertile": {
+    "description": "Fertility phase"
+  },
+  "ovulation": "التبويض",
+  "@ovulation": {
+    "description": "Ovulation phase"
+  },
+  "nextperiod": "الدورة القادمة",
+  "@nextperiod": {
+    "description": "Upcoming menstrual cycle"
+  },
+  "menstrualfertility": "الدورة الشهرية والخصوبة",
+  "@menstrualfertility": {
+    "description": "Health section"
+  },
+  "pregnancy": "الحمل",
+  "@pregnancy": {
+    "description": "Pregnancy section"
+  },
+  "note": "ملاحظة",
+  "@note": {
+    "description": "Notes section"
+  },
+  "newnoteforexample": "ملاحظة جديدة على سبيل المثال",
+  "@newnoteforexample": {
+    "description": "Example note"
+  },
+  "week23ofyourpregnancy": "الأسبوع 23 من حملك",
+  "@week23ofyourpregnancy": {
+    "description": "Pregnancy progress"
+  },
+  "details": "التفاصيل",
+  "@details": {
+    "description": "More information"
+  },
+  "mydailyinsights": "رؤى يومية",
+  "@mydailyinsights": {
+    "description": "Daily health insights"
+  },
+  "checkupvaccination": "الفحص والتطعيم",
+  "@checkupvaccination": {
+    "description": "Medical checkups"
+  },
+  "nextcheckup": "الفحص القادم",
+  "@nextcheckup": {
+    "description": "Upcoming medical checkup"
+  },
+  "heyjaneDoe": "مرحبًا جين دو، مرحبًا بك في",
+  "@heyjaneDoe": {
+    "description": "Welcome message for community"
+  },
+  "joindiscussion": "انضم إلى المناقشات، اطرح أسئلة، وتواصل مع الخبراء!",
+  "@joindiscussion": {
+    "description": "Encouragement to join discussions"
+  },
+  "upComingEvent": "الأحداث القادمة",
+    "@upComingEvent": {
+        "description": "الحدث القادم"
+    },
+  "forum": "المنتدى",
+  "@forum": {
+    "description": "Forum section"
+  },
+  "groups": "المجموعات",
+  "@groups": {
+    "description": "Groups vaatsection"
+  },
+  "events": "الفعاليات",
+  "@events": {
+    "description": "Events section"
+  },
+  "findtopic": "ابحث عن مواضيع ومجموعات ومناقشات",
+  "@findtopic": {
+    "description": "Search feature for topics"
+  },
+  "menstrualhealth": "صحة الدورة الشهرية",
+  "@menstrualhealth": {
+    "description": "Menstrual health section"
+  },
+  "fertility": "الخصوبة",
+  "@fertility": {
+    "description": "Fertility section"
+  },
+  "sexualhealth": "الصحة الجنسية",
+  "@sexualhealth": {
+    "description": "Sexual health section"
+  },
+  "populargroups": "المجموعات الشائعة",
+  "@populargroups": {
+    "description": "Popular community groups"
+  },
+  "findgroups": "ابحث عن مجموعات",
+  "@findgroups": {
+    "description": "Search feature for groups"
+  },
+  "eventsworkshops": "الفعاليات وورش العمل",
+  "@eventsworkshops": {
+    "description": "Events and workshops section"
+  },
+  "eventsdetails": "تفاصيل الفعاليات",
+  "@eventsdetails": {
+    "description": "Details of specific events"
+  },
+  "pregnancynutritionwebinar": "ندوة عبر الإنترنت عن تغذية الحمل",
+  "@pregnancynutritionwebinar": {
+    "description": "Webinar about pregnancy nutrition"
+  },
+  "whatlearn": "ما ستتعلمه",
+  "@whatlearn": {
+    "description": "Section describing learning outcomes"
+  },
+  "speakers": "المتحدثون",
+  "@speakers": {
+    "description": "Speakers for an event"
+  },
+  "registernow": "سجل الآن",
+  "@registernow": {
+    "description": "Registration button"
+  },
+  "editprofile": "تعديل الملف الشخصي",
+  "@editprofile": {
+    "description": "Profile editing option"
+  },
+  "inviteyourpartnertoovella": "ادعُ شريكك إلى Ovella",
+  "@inviteyourpartnertoovella": {
+    "description": "Option to invite a partner"
+  },
+  "clickheretoaddyourpartner": "انقر هنا لإضافة شريكك",
+  "@clickheretoaddyourpartner": {
+    "description": "Link to add partner"
+  },
+  "personalinformation": "المعلومات الشخصية",
+  "@personalinformation": {
+    "description": "User's personal information section"
+  },
+  "age": "العمر",
+  "@age": {
+    "description": "User's age"
+  },
+  "gender": "الجنس",
+  "@gender": {
+    "description": "User's gender"
+  },
+  "menstrualhealthdetails": "تفاصيل صحة الدورة الشهرية",
+  "@menstrualhealthdetails": {
+    "description": "Menstrual and health details"
+  },
+  "cyclelength": "طول الدورة",
+  "@cyclelength": {
+    "description": "Length of menstrual cycle"
+  },
+  "lastperiod": "آخر دورة",
+  "@lastperiod": {
+    "description": "Date of last period"
+  },
+  "pregnancystatus": "حالة الحمل",
+  "@pregnancystatus": {
+    "description": "Current pregnancy status"
+  },
+  "healthconditions": "الحالات الصحية",
+  "@healthconditions": {
+    "description": "User's health conditions"
+  },
+  "preferencesnotifications": "التفضيلات والإشعارات",
+  "@preferencesnotifications": {
+    "description": "User preferences and notifications"
+  },
+  "periodalerts": "تنبيهات الدورة",
+  "@periodalerts": {
+    "description": "Menstrual cycle alerts"
+  },
+  "pregnancytips": "نصائح الحمل",
+  "@pregnancytips": {
+    "description": "Tips for pregnancy"
+  },
+  "mentalhealth": "الصحة النفسية",
+  "@mentalhealth": {
+    "description": "Mental health section"
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "Language selection"
+  },
+  "privacydata": "الخصوصية والبيانات",
+  "@privacydata": {
+    "description": "Privacy and data management"
+  },
+  "viewdatainsights": "عرض رؤى البيانات",
+  "@viewdatainsights": {
+    "description": "View insights on data"
+  },
+  "exportdata": "تصدير البيانات",
+  "@exportdata": {
+    "description": "Export user data"
+  },
+  "deleteaccount": "حذف الحساب",
+  "@deleteaccount": {
+    "description": "Delete user account"
+  },
+  "supportcommunity": "الدعم والمجتمع",
+  "@supportcommunity": {
+    "description": "Support and community section"
+  },
+  "contactsupport": "اتصل بالدعم",
+  "@contactsupport": {
+    "description": "Support contact information"
+  },
+  "faqguides": "الأسئلة الشائعة والأدلة",
+  "@faqguides": {
+    "description": "Frequently asked questions and guides"
+  },
+  "joinacommunity": "انضم إلى مجتمع",
+  "@joinacommunity": {
+    "description": "Option to join a community"
+  },
+  "eventsAndWorkshops": "الفعاليات وورش العمل"
+
+}

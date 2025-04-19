@@ -1,0 +1,39 @@
+class RouteName{
+  static const String splashScreen = '/splashScreen';
+  static const String onboardingScreen = '/onboardingScreen';
+  static const String signUpScreen = '/signUpScreen';
+  static const String loginScreen = '/loginScreen';
+  static const String home = '/homeScreen';
+  static const String community ='/community';
+  static const String stepScreen = '/stepScreen';
+  static const String trackingScreen = '/trackingScreen';
+  static const String pregnancyDetailsScreen = '/pregnancyDetailsScreen';
+  static const String menstrualScreen = '/menstrualScreen';
+  static const String fertilityScreen = '/fertilityScreen';
+  static const String sexualScreen ='/sexualScreen';
+  static const String commonHealthConcernScreen = '/commonHealthConcernScreen';
+  static const String pregnancyFertilityTracking = '/pregnancyFertilityTracking';
+  static const String createAccountScreen = '/createAccountScreen';
+  static const String addNoteScreen = '/addNoteScreen';
+  static const String logPeriodScreen = '/logPeriodScreen';
+  static const String addLogScreen = '/addLogScreen';
+  static const String resetPasswordScreen = '/resetPasswordScreen';
+  static const String otpScreen = '/otpScreen';
+  static const String createNewPassword = '/createNewPassword';
+  static const String menstralScreen = '/menstralScreen';
+  static const String parentScreen = '/parentScreen';
+  static const String settingScreen = '/settingScreen';
+  static const String subscriptionScreen = '/subscriptionScreen';
+  static const String editCalenderScreen = '/editCalenderScreen';
+  static const String invitePartnerScreen = '/invitePartnerScreen';
+  static const String pairingScreen = '/pairingScreen';
+  static const String selectGenderScreen = '/selectGenderScreen';
+  static const String editProfileScreen = '/editProfileScreen';
+  static const String languageSettingScreen = '/languageSettingScreen';
+  static const String personalInformationSettingScreen = '/personalInformationSettingScreen';
+  static const String selectAgeScreen = '/selectAgeScreen';
+  static const String menstrualHealthDetails = '/menstrualHealthDetails';
+  static const String notificationScreen = '/notificationScreen';
+  static const String wellnessTipsScreen = '/wellnessTipsScreen';
+
+}
